@@ -1,3 +1,7 @@
 Caso de uso 2.
+<<<<<<< HEAD
 
 Alterando linha 3.
+=======
+Alterando linha 2
+>>>>>>> 37e04573d9e64fa5a9e55910b1ef816bd31e66f7
